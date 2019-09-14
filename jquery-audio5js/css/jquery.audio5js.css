@@ -1,0 +1,17 @@
+/*语音播放样式*/
+.audio {
+	cursor: pointer;
+  	background: url("../images/voice.png") 0 -512px no-repeat;
+  	width: 60px;
+  	height: 60px;
+  	vertical-align: middle;
+  	display: inline-block;
+}
+.audio-playing {
+	cursor: pointer;
+  	background: url("../images/voice.gif") 0 0 no-repeat;
+  	width: 60px;
+  	height: 60px;
+  	vertical-align: middle;
+  	display: inline-block;
+}
